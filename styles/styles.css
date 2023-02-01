@@ -42,6 +42,12 @@ a{
 #info{
     padding-bottom: 20px;
 }
+#inspiracion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 main .carta{
     border: 2px solid blueviolet;
     margin-bottom: 30px;
